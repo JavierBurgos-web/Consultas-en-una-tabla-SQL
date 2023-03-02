@@ -1,5 +1,3 @@
-La sintaxis para filtrar información contenida en una tabla
-
 ## 📋 Descripción
 Este es un archivo creado con leguaje SQL.
 El objetivo es conocer la sintaxis para filtrar información contenida en una tabla. 
